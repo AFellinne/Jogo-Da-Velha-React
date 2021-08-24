@@ -189,7 +189,7 @@ function finalizarJogo(jogador){
   }
 }
 
-//Estilos CSS
+//Estilos CSS usando react native
 const styles = StyleSheet.create({
   container: {
     flex: 1,
